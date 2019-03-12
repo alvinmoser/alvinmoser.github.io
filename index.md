@@ -1,9 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to almoser's training pages
 
-You can use the [editor on GitHub](https://github.com/alvinmoser/alvinmoser.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+It is unlikely you will see anything useful here for quite a while until I learn enough to not damage my projects!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+I think I'll keep the example of Markdowns because I might need to examine them later.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
